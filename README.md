@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Tim 👋
 
-<!--
-**tim91136/tim91136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm a software engineer living in Duisburg, 🇩🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:classical_building: I'm currently working at [TG alpha GmbH](https://www.tgalpha.de/ "TG alpha's Homepage") in the field of cyber security
+
+:seedling: As lead developer, my main work revolves around the creation & evolution of our own Intrusion Detection System
+
+:computer: Mostly coding & dreaming in C/C++, Python & Rust
+
+:zap: My roots were in electrical engineering & complex [high voltage test systems](https://www.highvolt.com/ "HIGHVOLT's Homepage")
+
+:rocket: In my spare time I try to learn more about pen testing, AI technologies & new languages like Ruby
+
+:fish: Fun fact: I'm the worlds best fisherman & I've caught hundrets of pikes & zanders 📈
