@@ -12,7 +12,7 @@
 
 :rocket: In my spare time I try to learn more about pen testing, AI technologies & new languages like Ruby
 
-:fish: Fun fact: I'm the worlds best fisherman & I've caught hundrets of pikes & zanders 📈
+:fish: Fun fact: I'm the worlds best fisherman & I've caught hundreds of pikes & zanders 📈
 
 ***
 #### What I work with:
