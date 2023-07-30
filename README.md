@@ -29,3 +29,4 @@
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
