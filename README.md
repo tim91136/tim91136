@@ -6,7 +6,7 @@
 
 :seedling: As lead developer, my main work revolves around the creation & evolution of our own Intrusion Detection System
 
-:computer: Mostly coding & dreaming in C/C++, Python, React & Rust
+:computer: Mostly coding & dreaming in C/C++, React, Python, Go & Rust
 
 :zap: My roots were in electrical engineering & complex [high voltage test systems](https://www.highvolt.com/ "HIGHVOLT's Homepage")
 
